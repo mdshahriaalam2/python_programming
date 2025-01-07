@@ -56,5 +56,6 @@ Welcome to the **Python Basic Programming** repository! This is a collection of 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-Developed By Md Shahria Alam
+Developed By **Md Shahria Alam**
+
 Happy coding! ✨
