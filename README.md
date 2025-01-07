@@ -45,7 +45,7 @@ Welcome to the **Python Basic Programming** repository! This is a collection of 
    ```
 2. Navigate to the project folder:
    ```bash
-   cd python-basic-programming
+   cd python_programming
    ```
 3. Run the Python files using:
    ```bash
@@ -56,5 +56,5 @@ Welcome to the **Python Basic Programming** repository! This is a collection of 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
+Developed By Md Shahria Alam
 Happy coding! ✨
