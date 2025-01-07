@@ -41,7 +41,7 @@ Welcome to the **Python Basic Programming** repository! This is a collection of 
 ### How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/python-basic-programming.git
+   git clone https://github.com/mdshahriaalam2/python_programming.git
    ```
 2. Navigate to the project folder:
    ```bash
